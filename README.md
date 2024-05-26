@@ -1,4 +1,4 @@
-This is a simple implementation to automate the remediation steps in KB5028997. Which are the remediation steps to fix an issue where the Windows Recovery partition is too small for some servicing updates.
+This is a simple implementation to automate the remediation steps in Microsoft KB5028997. Which are the remediation steps to fix an issue where the Windows Recovery partition is too small for some servicing updates.
 
 https://support.microsoft.com/en-us/topic/kb5028997-instructions-to-manually-resize-your-partition-to-install-the-winre-update-400faa27-9343-461c-ada9-24c8229763bf
 
